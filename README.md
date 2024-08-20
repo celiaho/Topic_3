@@ -1,0 +1,1 @@
+This program creates a Triangle class according to its UML as well as a TestTriangle class, demonstrating use of default constructor, multi-argument constructor, and display of objects using toString method.
